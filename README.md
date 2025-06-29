@@ -85,7 +85,7 @@
         <tr><td>📧</td><td><a href="mailto:iaidookobby@gmail.com">iaidookobby@gmail.com</a></td></tr>
         <tr><td>📞</td><td>+233 599 742 594</td></tr>
         <tr><td>📍</td><td>East Legon Hills, Ghana</td></tr>
-        <tr><td>⬇️</td><td><a href="https://raw.githubusercontent.com/Kobby-ia/portfolio/main/IsraelAidoo_CV.pdf" target="_blank">Download my CV</a></td></tr>
+        <tr><td>⬇️</td><td><a href="https://raw.githubusercontent.com/Kobby-ia/portfolio/main/Israel_Aidoo_CV_Updated 2.pdf" target="_blank">Download my CV</a></td></tr>
         <tr><td>🌐</td><td><a href="https://www.linkedin.com/in/issyaidoo/" target="_blank">Connect with me on LinkedIn</a></td></tr>
       </table>
     </section>
