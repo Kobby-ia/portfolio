@@ -1,7 +1,6 @@
 
-portfolio
-<style> body { font-family: 'Segoe UI', sans-serif; margin: 0; padding: 0; background: #f8f8f8; color: #333; } main { max-width: 900px; margin: 2rem auto; padding: 0 1rem; } section { margin-bottom: 2.5rem; } h1, h2 { color: #3f0e40; } a { color: #3f0e40; text-decoration: none; } table td { padding: 0.5rem; vertical-align: top; } .card { background: white; padding: 1.5rem; box-shadow: 0 2px 6px rgba(0,0,0,0.1); border-radius: 8px; } </style>
-About Me
+<h1>Portfolio</h1>
+<h2>About Me</h2>
 Hello!
 I'm Israel Aidoo — a data analyst, educator, and aspiring consultant with a drive to transform raw data into actionable insights. With hands-on experience in education, school systems, operations, and project coordination, I help institutions and businesses uncover opportunities, solve challenges, and make smarter decisions.
 
