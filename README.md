@@ -82,7 +82,7 @@ I aspire to:
 
 - GitHub: [@kobby-ia](https://github.com/kobby-ia)
 - Website: [kobby-ia.github.io/portfolio](https://kobby-ia.github.io/portfolio)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/issyaidoo/) *(update with real link)*
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/issyaidoo/) 
 
 ---
 
