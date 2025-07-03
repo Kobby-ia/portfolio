@@ -80,9 +80,14 @@ I aspire to:
 
 ## 📬 Let’s Connect
 
-- GitHub: [@kobby-ia](https://github.com/kobby-ia)
-- Website: [kobby-ia.github.io/portfolio](https://kobby-ia.github.io/portfolio)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/issyaidoo/) 
+## 📬 Let’s Connect
+
+- 📧 Email: [iaidookobby@gmail.com](mailto:iaidookobby@gmail.com)  
+- 📞 Phone: (+233) 599 742 594  
+- 📄 [Download My CV](assets/resume.pdf)  
+- 🐙 GitHub: [@kobby-ia](https://github.com/kobby-ia)  
+- 🌐 Website: [https://kobby-ia.github.io/portfolio](https://kobby-ia.github.io/portfolio)  
+- 💼 LinkedIn: [https://linkedin.com/in/issyaidoo](https://linkedin.com/in/issyaidoo)
 
 ---
 
