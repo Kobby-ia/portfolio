@@ -1,6 +1,6 @@
 <h1 align="center">Israel Aidoo</h1>
 <p align="center">
-  📊 Data Enthusiast • 🧠 Aspiring Consultant • 👨‍🏫 Educator • 🌍 Community Builder  
+  📊 Data Analyst • 🧠 Aspiring Data Engineer/Consultant • 👨‍🏫 Educator • 🌍 Community Builder  
 </p>
 <p align="center">
   <a href="https://github.com/kobby-ia">GitHub</a> •
@@ -61,9 +61,6 @@ A comparative Excel-based data analysis project exploring workforce trends betwe
 - **Educator**, CityBest International Montessori School  
   Teaching Math, English, and Creative Arts, and designing exams based on the GES/BECE syllabus.
 
-- **Shepherd**, Reigners Worship Centre  
-  Foundation class leader, outreach team member, and mentoring new church members.
-
 - **Builder**, School Management System  
   Developed a full backend + GUI system for managing student records, attendance, classes, fees, and reports using Python & MySQL.
 
@@ -77,8 +74,6 @@ I aspire to:
 - Use **data for social impact** and educational equity
 
 ---
-
-## 📬 Let’s Connect
 
 ## 📬 Let’s Connect
 
