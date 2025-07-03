@@ -28,3 +28,14 @@ This project is an exploratory data analysis comparing employees from **India** 
 
 ## Author
 Israel Aidoo ([GitHub](https://github.com/kobby-ia))
+
+## 📷 Visual Insights
+
+### Salary Comparison
+![Salary Comparison](visuals/salary-comparison.png)
+
+### Gender Distribution
+![Gender Distribution](visuals/gender-distribution.png)
+
+### Education Levels
+![Education Levels](visuals/education-levels.png)
