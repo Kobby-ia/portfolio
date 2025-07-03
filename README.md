@@ -84,7 +84,7 @@ I aspire to:
 
 - 📧 Email: [iaidookobby@gmail.com](mailto:iaidookobby@gmail.com)  
 - 📞 Phone: (+233) 599 742 594  
-- 📄 [Download My CV](assets/resume.pdf)  
+- 📄 [Download My CV](Israel_Aidoo_Updated_CV_with_Portfolio.pdf)  
 - 🐙 GitHub: [@kobby-ia](https://github.com/kobby-ia)  
 - 🌐 Website: [https://kobby-ia.github.io/portfolio](https://kobby-ia.github.io/portfolio)  
 - 💼 LinkedIn: [https://linkedin.com/in/issyaidoo](https://linkedin.com/in/issyaidoo)
