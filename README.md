@@ -43,6 +43,33 @@ A comparative Excel-based data analysis project exploring workforce trends betwe
 
 ---
 
+## 🚀 Featured Project: Sales & Profit Analytics
+
+📂 [View LinkedIn Project Post »](https://www.linkedin.com/posts/issyaidoo_dataanalytics-businessintelligence-salesgrowth-activity-7372545666503299072-3zw9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACbJsloBJoi0hamc5CgnNn4czMIpHk9ZFQo)
+
+An Excel-driven analytics project transforming raw transactional data into actionable business insights on sales, profit, and customer behavior.
+
+> 🛠 Tools: Microsoft Excel, Pivot Tables, Dashboards  
+> 🔍 Focus: Sales performance, profitability analysis, customer segmentation  
+
+### 📷 Key Highlights  
+
+#### 📊 Sales by Region & State  
+*Identified states with high sales but low profit margins — guiding pricing and discount strategy.*  
+
+#### 📦 Category Profitability  
+*Analyzed categories and sub-categories to highlight high-growth vs. loss-making products.*  
+
+#### 👥 Customer Segmentation  
+*Discovered top customer segments driving majority of profits — advised targeted marketing.*  
+
+#### 📅 Seasonal Insights  
+*Uncovered peak months for categories, enabling proactive promotional planning.*  
+
+#### 📊 Sales & Profit Dashboard  
+<img src="sales-profit-analysis/visuals/sales_profit_dashboard.png" width="500"/>
+
+---
 ## 🛠️ Tools & Technologies
 
 | Skillset         | Tools / Languages                      |
@@ -65,6 +92,7 @@ A comparative Excel-based data analysis project exploring workforce trends betwe
   Developed a full backend + GUI system for managing student records, attendance, classes, fees, and reports using Python & MySQL.
 
 ---
+
 
 ## 🎯 Career Goals
 
