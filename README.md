@@ -47,6 +47,8 @@ A comparative Excel-based data analysis project exploring workforce trends betwe
 
 📂 [View LinkedIn Project Post »](https://www.linkedin.com/posts/issyaidoo_dataanalytics-businessintelligence-salesgrowth-activity-7372545666503299072-3zw9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACbJsloBJoi0hamc5CgnNn4czMIpHk9ZFQo)
 
+📊 [Download Full Excel Project »](https://github.com/<Kobby-ia>/portfolio/blob/main/sales-and-profit/SALES_AND_PROFIT_PROJECT123.xlsx)
+
 An Excel-driven analytics project transforming raw transactional data into actionable business insights on sales, profit, and customer behavior.
 
 > 🛠 Tools: Microsoft Excel, Pivot Tables, Dashboards  
