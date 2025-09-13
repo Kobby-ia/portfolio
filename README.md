@@ -23,7 +23,7 @@ I'm a calm and collaborative professional with a background in Chemical Engineer
 
 ## 🚀 Featured Project: Employee Analysis (India vs New Zealand)
 
-📂 [View Full Project on GitHub »](https://github.com/kobby-ia/portfolio/tree/main/employee-analysis-nz-ind)
+📂 [View Full Project on GitHub »](https://github.com/Kobby-ia/portfolio/tree/main/employee-analysis-nz-ind)
 
 A comparative Excel-based data analysis project exploring workforce trends between India and New Zealand — covering salaries, gender distribution, and education levels.
 
